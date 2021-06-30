@@ -2,7 +2,9 @@ package session
 
 import (
 	"testing"
+)
 
+import (
 	"github.com/stretchr/testify/assert"
 	"github.com/transaction-wg/seata-golang/pkg/testutil"
 )
